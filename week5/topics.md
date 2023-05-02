@@ -1,0 +1,23 @@
+- [*] bitwise operations (operators precedence)
+- [*] check parity
+- [*] prefix xor
+- [*] power of 2 and shifting
+- [*] manipulating bits
+  - get (and)
+  - set (or)
+  - toggle (xor)
+- [*] first k bits, consecutive k bits
+  - get
+  - set
+  - flip
+- [*] using integer as a pair
+- [*] LSB, MSB, count ones
+  - builtin functions
+  - set LSB, MSB
+  - get LSB, MSB
+  - toggle LSB, MSB
+- [*] next power of 2
+- [*] bitset data structure
+- [ ] combinations and all subsets
+- [ ] mod 2^k (%)
+

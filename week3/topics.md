@@ -1,0 +1,34 @@
+- [*] Why STL?
+    - Containers (data structures)
+    - Algorithms
+- [*] Vector
+- [*] Stack
+- [*] Queue
+- [*] Priotiry Queue
+- [*] Deque (double-ended queue)
+- [*] List
+- [*] Array
+- [*] Tuple
+- [*] Map
+- [*] Set
+- [*] Multi-map
+- [*] Multi-set
+- [*] Ordered set (policy based containers)
+- [*] Quick overview of sorting algorithms
+    - Selection sort
+    - Bubble sort
+    - Insertion sort
+    - Merge sort
+    - Quick sort
+    - Heap sort
+    - https://visualgo.net/
+    - https://algorithm-visualizer.org/
+- [ ] How to sort in C++
+    - std::sort
+    - std::stable_sort
+    - std::partial_sort
+- [ ] Customize your sorting
+    - Anonymous (lambda) function
+    - Operators overloading
+    - Functors
+
